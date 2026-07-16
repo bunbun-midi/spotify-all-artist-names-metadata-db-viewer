@@ -1,0 +1,3 @@
+hey what's up everybody, i've distilled the spotify metadata information down into just the unique artist names so you can search all of the known uploaded artistnames as of 2025 july. or browse them at your leisure. use the script here with the following .db file. https://www.mediafire.com/file/z1i7j0t72kbi1ue/ywartists.db/file
+you just put both of the files in the same directory, have python installed, then run the script. the toggle sort button makes the list alphabetized or default order.
+oh yeah i mean you can search for like, you know, a few letters at a time. like "the". (there's 156388 entries matching that) if you want additional features like even more alphabetization or whatever just ask your computer nicely to modify the script.
