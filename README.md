@@ -1,4 +1,4 @@
-![image]([https://github.com](https://github.com/bunbun-midi/spotify-all-artist-names-metadata-db-viewer/blob/main/spotify-metadata-bunbun-midi.png))
+![image](https://raw.githubusercontent.com/bunbun-midi/spotify-all-artist-names-metadata-db-viewer/refs/heads/main/spotify-metadata-bunbun-midi.png)
 
 hey what's up everybody, i've distilled the spotify metadata information down into just the unique artist names so you can search all of the known uploaded artistnames as of 2025 july. or browse them at your leisure. use the script here with the following .db file. https://www.mediafire.com/file/z1i7j0t72kbi1ue/ywartists.db/file
 you just put both of the files in the same directory, have python installed, then run the script. the toggle sort button makes the list alphabetized or default order.
